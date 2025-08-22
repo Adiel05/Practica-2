@@ -3,7 +3,7 @@ Este proyecto es una demostración con Three.js, donde se renderizan dos figuras
 Un rectángulo que rota continuamente.
 Un círculo que se coloca a su lado y tiene una animación de "latido" (cambia de tamaño periódicamente).
 
-#Funcionamiento
+# Funcionamiento
 Se crea una escena (THREE.Scene) y un renderizador (THREE.WebGLRenderer).
 Se define una cámara ortográfica para visualizar los objetos.
 Se añaden dos figuras:
